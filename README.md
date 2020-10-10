@@ -1,8 +1,5 @@
 # Deploy Spring Boot Applications to Azure using Azure Web Apps
 
-
-[![Image](https://www.springboottutorial.com/images/Course-Deploy-SpringBoot-To-Azure-Web-Apps.png "Azure Crash Course for Java Spring Boot Developers")](https://www.udemy.com/course/deploy-spring-boot-to-azure/)
-
 ## Take your first steps towards cloud with Azure Web Apps. Deploy REST APIs, Full Stack Applications, Web Applications and Containers to the cloud.
 
 Spring Boot is the No 1 Java Framework to develop REST API and Microservices. Azure is the One of the Top Cloud Service Providers today.
